@@ -1,0 +1,6 @@
+--- Bookings.xlsx ---
+['booking_id', 'staffer', 'booked_from', 'booked_till', 'customer_first_name', 'customer_last_name', 'customer_card_phone', 'customer_id', 'customer_card_id', 'service_name', 'price', 'final_price', 'added_by', 'appointment_type', 'business_note', 'status', 'booking_finished_at', 'source_name']
+--- Staff.xlsx ---
+['Name', 'ID']
+--- services.xls ---
+['Категория', 'ID', 'Имя', 'Название в чеке', 'Название для онлайн-записи', 'Цена от', 'Цена до', 'API_ID', 'Описание', 'ID мастеров', 'Длительность']
